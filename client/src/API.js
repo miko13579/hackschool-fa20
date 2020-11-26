@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const server = 'https://pokemon-generator-draw.herokuapp.com/';
+const server = 'https://pokemon-generator-draw.herokuapp.com';
 
 const API = {
     getPokemon: function () {
